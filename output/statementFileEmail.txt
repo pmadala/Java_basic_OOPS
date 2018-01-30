@@ -1,0 +1,5 @@
+Rental Record for Larry
+	Harry Potter	38.0
+	Lion King	11.5
+Amount owed is 49.5
+You earned 3 frequent renter points

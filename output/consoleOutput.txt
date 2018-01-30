@@ -1,0 +1,19 @@
+PDF statement generated.
+Rental Record for Larry
+	Harry Potter	38.0
+	Lion King	11.5
+Amount owed is 49.5
+You earned 3 frequent renter points
+Done
+
+------------------
+
+Email statement generated.
+Rental Record for John
+	Monk who sold his Farrari	30.0
+	Harry Potter	36.5
+	Song of Ice and Firer	29.0
+Amount owed is 95.5
+You earned 5 frequent renter points
+Done
+
